@@ -1,14 +1,21 @@
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/brunofeu/brunofeu/main/octo.gif" alt="GitHub Logo" width="150" height="150" />
+</div>
+
 ### Hi there 👋
+<div style="display: inline_block">
+  <div align="left">
+  <a href="https://github.com/brunofeu">
+   <img  height="130em" src="https://github-readme-stats.vercel.app/api?username=brunofeu&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide=stars"/> <br>
+   <img  height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunofeu&layout=compact&langs_count=7&theme=nightowl"/>
+   </a>
+  </div>
 
-<div >
- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/brunofeu/brunofeu/main/code.gif"  height="325em" />
-   <a href="https://github.com/brunofeu">
-    
- <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api?username=brunofeu&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide=stars"/> 
-    
-  
- <img align="left" height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunofeu&layout=compact&langs_count=7&theme=nightowl"/>
-
+   <div align="right">
+    <a href="https://raw.githubusercontent.com/brunofeu/brunofeu/main/code.gif">
+    <img  alt="GIF" src="https://raw.githubusercontent.com/brunofeu/brunofeu/main/code.gif"  height="325em" />
+   </div>
 </div>
  
 
