@@ -22,6 +22,12 @@
   ![Snake animation](https://github.com/brunofeu/brunofeu/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+ 
+ </p>
+
+![Abhinandan Trilokia](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
+<br>
+</p>
 <!--
 **brunofeu/brunofeu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
