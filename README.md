@@ -1,13 +1,15 @@
 
+### Hi there 👋
+
 <div align="center">
 <img src="https://raw.githubusercontent.com/brunofeu/brunofeu/main/octo.gif" alt="GitHub Logo" width="150" height="150" />
 </div>
+<br>
 
-### Hi there 👋
 
-<div >
+<div align="center">
  <a href="https://raw.githubusercontent.com/brunofeu/brunofeu/main/code.gif">
-    <img align="right" alt="GIF" src="https://raw.githubusercontent.com/brunofeu/brunofeu/main/code.gif"  height="250em" /></a>
+    <img align="right" alt="GIF" src="https://raw.githubusercontent.com/brunofeu/brunofeu/main/code.gif"  height="270em" /></a>
 </div>
 
   <div style="display: inline_block" >
