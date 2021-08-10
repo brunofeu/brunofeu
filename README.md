@@ -1,10 +1,7 @@
 
 ### Hi there 👋
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/brunofeu/brunofeu/main/octo.gif" alt="GitHub Logo" width="150" height="150" />
-</div>
-<br>
+
 
 
 <div align="center">
@@ -52,8 +49,13 @@
   ![Snake animation](https://github.com/brunofeu/brunofeu/blob/output/github-contribution-grid-snake.svg)
  
 </div>
- 
- </p>
+<br><br>
+   <div align="center">
+<img src="https://raw.githubusercontent.com/brunofeu/brunofeu/main/octo.gif" alt="GitHub Logo" width="150" height="150" />
+</div>
+
+   
+
 
 ![Abhinandan Trilokia](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
 <br>
