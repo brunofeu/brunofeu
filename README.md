@@ -1,11 +1,23 @@
 ### Hi there 👋
 
- <div>
-  <a href="https://github.com/brunofeu">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=brunofeu&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide=stars"/>
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunofeu&layout=compact&langs_count=7&theme=nightowl"/>
+<div >
+ <img align="right" alt="GIF" src="https://raw.githubusercontent.com/brunofeu/brunofeu/main/code.gif"  height="325em" />
+   <a href="https://github.com/brunofeu">
+    
+ <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api?username=brunofeu&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide=stars"/> 
+    
+  
+ <img align="left" height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunofeu&layout=compact&langs_count=7&theme=nightowl"/>
+
 </div>
-<div style="display: inline_block" align="center"><br>
+ 
+
+     
+
+
+
+  
+<div style="display: inline_block" align="center">
  <img align="center" alt="Js" height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="HTML" height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="CSS" height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -19,7 +31,7 @@
  	<a href = "mailto:brunofeu89@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/brunofeu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    
-     <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+     
  
   ![Snake animation](https://github.com/brunofeu/brunofeu/blob/output/github-contribution-grid-snake.svg)
  
