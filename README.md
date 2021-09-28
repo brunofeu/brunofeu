@@ -6,19 +6,16 @@
 
 
 
-  <div style="display: inline_block" >
-       
-  
+<div align="left" >
   <a href="https://github.com/brunofeu">
-   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=brunofeu&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide=stars"/><br>
-       <a href="https://github.com/brunofeu">
-   <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunofeu&layout=compact&langs_count=7&theme=nightowl"/>
+   <img align="left" height="165em" src="https://github-readme-stats.vercel.app/api?username=brunofeu&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide=stars"/>
+   <img align="left" height="158em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunofeu&layout=compact&langs_count=7&theme=nightowl"/>
    
-  </div>
+</div>
 
-<div align="center">
+<div align="right">
  <a href="https://raw.githubusercontent.com/brunofeu/brunofeu/main/code.gif">
-    <img alt="GIF" src="https://raw.githubusercontent.com/brunofeu/brunofeu/main/code.gif"  height="270em" /></a>
+    <img  alt="GIF" src="https://raw.githubusercontent.com/brunofeu/brunofeu/main/code.gif"  height="320em" /></a>
 </div>
 
  <br>
