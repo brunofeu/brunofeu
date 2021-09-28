@@ -8,14 +8,14 @@
 
 <div align="center" >
   <a href="https://github.com/brunofeu">
-   <img align="left" height="170em" src="https://github-readme-stats.vercel.app/api?username=brunofeu&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide=stars"/>
-   <img align="left" height="162em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunofeu&layout=compact&langs_count=7&theme=nightowl"/>
+   <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=brunofeu&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide=stars"/>
+   <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunofeu&layout=compact&langs_count=7&theme=nightowl"/>
    
 </div>
 
 <div align="right">
  <a href="https://raw.githubusercontent.com/brunofeu/brunofeu/main/code.gif">
-    <img  alt="GIF" src="https://raw.githubusercontent.com/brunofeu/brunofeu/main/code.gif"  height="320em" /></a>
+    <img  alt="GIF" src="https://raw.githubusercontent.com/brunofeu/brunofeu/main/code.gif"  width="48%" /></a>
 </div>
 
  <br>
