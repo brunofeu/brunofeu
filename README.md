@@ -1,4 +1,4 @@
-### Olá 👋
+## Olá 👋
 
 Eu sou o Bruno,
 
@@ -25,21 +25,22 @@ Eu sou o Bruno,
 
 <div align="right">
  <a href="https://raw.githubusercontent.com/brunofeu/brunofeu/main/code.gif">
- <img  alt="GIF" src="https://raw.githubusercontent.com/brunofeu/brunofeu/main/code.gif"  width="48%" /></a>
+ <img  alt="GIF" src="https://raw.githubusercontent.com/brunofeu/brunofeu/main/code.gif"  width="43%" /></a>
 </div>
 
    <br><br>
   
-#### Linguagens e ferramentas:
+### 🛠️ Linguagens e ferramentas:
   
    
 <div style="display: inline_block" align="left">
-   <img align="center" alt="HTML" height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
-   <img align="center" alt="CSS" height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
-   <img align="center" alt="Js" height="55" width="55" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Javascript-shield.svg">
-   <img align="center" alt="React" height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="55" height="55" />
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="55" height="55"/> 
+   <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+   <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+   <img align="center" alt="React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
+  <img align="center" alt="React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50" />
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="50" height="50"/> 
   </div>
   <br>
   
