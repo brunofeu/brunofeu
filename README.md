@@ -16,14 +16,14 @@ Eu sou o Bruno,
 <br>
 
 
-<div align="center" >
+<div align="right" >
   <a href="https://github.com/brunofeu">
   <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=brunofeu&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide=stars"/>
   <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunofeu&layout=compact&langs_count=7&theme=nightowl"/>
-</div>
+
  
 
-<div align="right">
+
  <a href="https://raw.githubusercontent.com/brunofeu/brunofeu/main/code.gif">
  <img  alt="GIF" src="https://raw.githubusercontent.com/brunofeu/brunofeu/main/code.gif"  width="43%" /></a>
 </div>
