@@ -30,7 +30,7 @@ Eu sou o Bruno,
 
    <br><br>
   
-Linguagens e ferramentas:
+#### Linguagens e ferramentas:
   
    
 <div style="display: inline_block" align="left">
@@ -41,10 +41,10 @@ Linguagens e ferramentas:
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="55" height="55" />
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="55" height="55"/> 
   </div>
-  <br><br>
-  <div > 
-    Entre em contato: <br><br>
- 
+  <br>
+  
+ #### Entre em contato: <br><br>
+ <div > 
   <a href="https://instagram.com/brunofeu" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="mailto:brunofeu89@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/brunofeu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
