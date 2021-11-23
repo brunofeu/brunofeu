@@ -19,7 +19,7 @@ Eu sou o Bruno,
 
 <div align="right" >
   <a href="https://github.com/brunofeu">
-  <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=brunofeu&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide=stars"/>
+  <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=brunofeu&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
   <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunofeu&layout=compact&langs_count=7&theme=nightowl"/>
 
  
