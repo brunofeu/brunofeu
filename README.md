@@ -9,7 +9,8 @@ Eu sou o Bruno,
 
 
 - :house_with_garden:	Atualmente moro em São Paulo, Capital
-- 🌱 Estou estudando Front-End utilizando React
+- 🌱 Estou estudando Back-End na Trybe
+- 🎲 ... e também estou estudando Data Science e Analytics na USP
 - :closed_book: Sou Engenheiro em transição para a área de desenvolvimento
 - 👯 Sou uma pessoa extremamente colaborativa, pode entrar em contato... :wink:
 - 🤾🇧🇷 ... ou pode chamar para jogar um Handball também ❤️
