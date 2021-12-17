@@ -16,6 +16,10 @@ Eu sou o Bruno,
 - 🤾🇧🇷 ... ou pode chamar para jogar um Handball também ❤️
 <br>
 
+  [Meu Portifólio](https://brunofeu.github.io/) 
+ >Em construção... 🚧
+
+<br>
 
 <div align="right" >
   <a href="https://github.com/brunofeu">
