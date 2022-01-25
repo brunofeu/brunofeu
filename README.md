@@ -1,12 +1,4 @@
-## Olá 👋
-
-Eu sou o Bruno,
-
-  apaixonado por Tecnologia e desenvolvimento. 
-  Estudo Desenvolvimento Web na Trybe, uma escola que ensina a programar, a aprender e a trabalhar. 
-  Acredito que meu trabalho possa gerar um impacto positivo na vida das pessoas. 
-  É isso que busco à cada novo aprendizado e novo projeto.
-
+## Olá 👋, meu nome é Bruno
 
 - :house_with_garden:	Atualmente moro em São Paulo, Capital
 - 🌱 Estou estudando Back-End na Trybe
@@ -17,7 +9,8 @@ Eu sou o Bruno,
 <br>
 
   [Meu Portfólio](https://brunofeu.github.io/) 
- >Em construção... 🚧
+  
+  ---
 
 <br>
 
@@ -35,22 +28,26 @@ Eu sou o Bruno,
 
    <br><br>
   
-### 🛠️ Linguagens e ferramentas:
+  ---
+  
+### 🛠️ Ferramentas e tecnologias que utilizo:
   
    
 <div style="display: inline_block" align="left">
-   <img align="center" alt="HTML" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg">
-   <img align="center" alt="CSS" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg">
-   <img align="center" alt="Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-   <img align="center" alt="React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
-  <img align="center" alt="React" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg">
-  
-  <img align="center" alt="React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50" />
-  <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="github" width="50" height="50"/> 
-  <img align="center" alt="React" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg">
+  <img align="center" alt="github" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg"> 
+  <img align="center" alt="HTML" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg">
+  <img align="center" alt="CSS" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg">
+  <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
+  <img align="center" alt="React" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg">
+  <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
+  <img align="center" alt="bootstrap" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="tailwindcss" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg">
+  <img align="center" alt="mysql"  height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   </div>
   <br>
+  
+  ---
   
  #### Entre em contato: <br><br>
  <div > 
