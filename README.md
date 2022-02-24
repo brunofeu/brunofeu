@@ -1,8 +1,11 @@
 ## Olá 👋, meu nome é Bruno
 
+
+
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/brunofeu/brunofeu/main/code.gif"  width="375px" height="230" /></a>
 
 - 👨‍💻 Sou desenvolvedor Full Stack
+- <img alt="GIF" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="17"/> Você pode encontrar meu portfólio em https://brunofeu.vercel.app/
 - :house_with_garden:	Atualmente moro em São Paulo, Capital
 - 🌱 Estou me desenvolvendo no módulo de Back-End na [Trybe](https://www.betrybe.com/) 
 - 🎲 ... e também estou estudando Data Science e Analytics na USP
@@ -10,8 +13,6 @@
 - 👯 Sou uma pessoa extremamente colaborativa, pode entrar em contato... :wink:
 - 🤾🇧🇷 ... ou pode chamar para jogar um Handball também ❤️
 <br>
-
-  [Meu Portfólio](https://brunofeu.github.io/) 
 
   ---
 
