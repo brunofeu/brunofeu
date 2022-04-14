@@ -35,26 +35,31 @@
   <div  align="center">
     <div>
       <br>
-      <a href="https://docs.github.com/en"> <img align="center" alt="github" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg"></a> 
-      <a href="https://devdocs.io/html/"><img align="center" alt="HTML" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg"></a>
-      <a href="https://devdocs.io/css/"><img align="center" alt="CSS" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"></a>
-      <a href="https://devdocs.io/javascript/"><img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></a>
-      <a href="https://www.typescriptlang.org/"><img align="center" alt="Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></a>
-      <a href="https://reactjs.org/"><img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></a>
-      <a href="https://jestjs.io/docs/next/getting-started"><img align="center" alt="Jest" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg"></a>
-      <a href="https://mochajs.org/"><img align="center" alt="Mocha" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg"></a>
+      <a href="https://docs.github.com/en"> <img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> 
+      <a href="https://devdocs.io/html/"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
+      <a href="https://devdocs.io/css/"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
+      <a href="https://devdocs.io/javascript/"><img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
+      <a href="https://www.typescriptlang.org/"><img alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
+      <a href="https://reactjs.org/"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
+      <a href="https://jestjs.io/docs/next/getting-started"><img alt="Jest"src="https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"></a>
+      <a href="https://mochajs.org/"><img alt="Mocha" src="https://img.shields.io/badge/Mocha-8a6343?style=for-the-badge&logo=mocha&logoColor=white"></a>
+      <a href="https://"><img alt="Hooks" src="https://img.shields.io/badge/-Hooks-%2320232a.svg?style=for-the-badge&logo=React&logoColor=%2361DAFB"></a>
       <br>
     </div>
     <div>
       <br>
-      <a href="https://redux.js.org/"><img align="center" alt="Redux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"></a>
-      <a href="https://getbootstrap.com/"><img align="center" alt="bootstrap" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"></a>
-      <a href="https://tailwindcss.com/"><img align="center" alt="tailwindcss" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"></a>
-      <a href="https://docs.docker.com/"><img align="center" alt="Docker"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"></a>
-      <a href="https://nodejs.org/en/docs/"><img align="center" alt="Nodejs"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></a>
-      <a href="https://expressjs.com/"><img align="center" alt="express"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"></a>
-      <a href="https://dev.mysql.com/doc/"><img align="center" alt="mysql"  height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></a>
-      <a href="https://sequelize.org/"><img align="center" alt="Sequelize"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg"></a>
+      <a href="https://redux.js.org/"><img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"></a>
+      <a href="https://getbootstrap.com/"><img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
+      <a href="https://tailwindcss.com/"><img alt="tailwindcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
+      <a href="https://docs.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/Docker-082135?style=for-the-badge&logo=Docker&logoColor=blue"></a>
+      <a href="https://nodejs.org/en/docs/"><img alt="Nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></a>
+      <a href="https://expressjs.com/"><img alt="express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"></a>
+      <a href="https://dev.mysql.com/doc/"><img alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
+      <a href="https://sequelize.org/"><img alt="Sequelize" src="https://img.shields.io/badge/-Sequelize-eeeeee?style=for-the-badge&logo=sequelize&logoColor=00b1ea"></a>
+      <a href="https://"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+      <a href="https://"><img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"></a>
+      <a href="https://"><img alt="RTL" src="https://img.shields.io/badge/-RTL-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
+      <a href="https://"><img alt="RTL" src="https://img.shields.io/badge/Chai-f7e9c8?style=for-the-badge&logo=mocha&logoColor=a84d45"></a>
       <br>
     </div>
   </div>
