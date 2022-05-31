@@ -5,7 +5,7 @@
  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/brunofeu/brunofeu/main/code.gif"  width="375px" height="230" />
  
 
-- 👨‍💻 Sou desenvolvedor Full Stack
+- 👨‍💻 Sou desenvolvedor Full Stack no UOL - Universo Online
 - <img alt="GIF" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="17"/> Você pode encontrar meu portfólio em https://brunofeu.vercel.app/
 - :house_with_garden:	Atualmente moro em São Paulo, Capital
 - 🌱 Estou me desenvolvendo no módulo de Back-End na [Trybe](https://www.betrybe.com/) 
@@ -38,6 +38,8 @@
 
  <a href="https://devdocs.io/javascript/"><img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
  <a href="https://www.typescriptlang.org/"><img alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
+  <a href=""><img alt="java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"></a>
+   <a href=""><img alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
  ##
  
 ### Front-end
