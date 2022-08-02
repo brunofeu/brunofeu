@@ -10,9 +10,8 @@
 - :house_with_garden:	Atualmente moro em São Paulo, Capital
 - 🌱 Estou aprofundando meus conhecimentos em Java e Spring Framework...
 - 🎲 ... e também estou estudando Data Science e Analytics na USP
-- :closed_book: Sou Engenheiro em transição para a área de desenvolvimento
 - 👯 Sou uma pessoa extremamente colaborativa, pode entrar em contato... :wink:
-- 🤾🇧🇷 ... ou pode chamar para jogar um Handball também ❤️
+- 🏎️ ... ou pode chamar pra uma SimRace também ❤️
   <br>
 
   ---
