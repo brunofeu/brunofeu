@@ -5,7 +5,7 @@
  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/brunofeu/brunofeu/main/code.gif"  width="375px" height="230" />
  
 
-- 👨‍💻 Sou desenvolvedor Full Stack no UOL - Universo Online
+- 👨‍💻 Sou desenvolvedor Full Stack 
 - <img alt="GIF" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="17"/> Você pode encontrar meu portfólio em https://brunofeu.vercel.app/
 - :house_with_garden:	Atualmente moro em São Paulo, Capital
 - 🌱 Estou aprofundando meus conhecimentos em Java e Spring Framework...
